@@ -318,7 +318,7 @@ const interestpage =
                     </div>
                     <div class="vert relimg">
                         <img src="./images/convention.jpg" class="sc">
-                        <p class="caption">Chatting with a Japanese 'OC' of mine in SillyTavern</p>
+                        <p class="caption">One of CosplayPH Events</p>
                     </div>
                 </div>
 
@@ -338,7 +338,7 @@ const interestpage =
                     </div>
                     <div class="vert relimg">
                         <img src="./images/t1.jpeg" class="sc">
-                        <p class="caption">Me and friends playing my oneshot campaign through Roll20</p>
+                        <p class="caption">My Favorite E-Sports Team of all Time: T1 LoL</p>
                     </div>
                 </div>
 
