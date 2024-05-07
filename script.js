@@ -306,7 +306,8 @@ const edupage=
                         
                         <p class="explain other">
                             <span class="">
-                            • Graduated as High Honors
+                            • Graduated Junior High School as Honors
+                            • Graduated Grade School as Most Promising Student
                             </span>
                         </p>
                         <p class="explain other">
