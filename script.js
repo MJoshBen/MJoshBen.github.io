@@ -44,7 +44,7 @@ const projectpage =
                         
                         <p class="explain">Deployed Django application allowing users to view upcoming tournaments in the Philippines. It also allows users to organize their own tournaments inside the country</p>
                         <p class="explain">As a web developer, I created high priority features that is essential to the website such as the Tournament Details Feature, Join Tournament Feature and many more.</p>
-                        <p class="explain">This was more of a.</p>
+                        <p class="explain">This was more of a personal project as the subject required us to create a functional webpage or application based on what the group wants to work on and did not require having to work with real life clients.</p>
 
                     </div>
                     <div class="vert relimg">
