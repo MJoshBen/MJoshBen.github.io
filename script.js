@@ -101,6 +101,76 @@ const projectpage =
                     </div>
                 </div>
 
+                <div class="hori block">
+                    <div class="vert">
+                        <div class="hori">
+                            <div class="vert">
+                                <h2>Unity 2D Turn Based JRPG</h2>
+                                <h3>Tekken Turn Based Gameplayr</h3>
+                            </div>
+                            <div class="vert daterole">
+                                <h3>Developer</h3>
+                                <h3>Apr. 2024 - Apr. 2024</h3>
+                            </div>
+                            
+                        </div>
+                        
+                        <p class="explain">A 2D Game created through Godot that simulates the basic features of a turn-based JRPG fight sequience. It simulates a 2v2 fight sequence wherein the player selects a move they wish to perform and the enemy attacks after the player moves.
+                        </p>
+                        
+                    </div>
+                    <div class="vert relimg">
+                        <img src="./images/turnbased.png" class="sc">
+                        <p class="caption">Turn Based Game</p>
+                    </div>
+                </div>
+
+                <div class="hori block">
+                    <div class="vert">
+                        <div class="hori">
+                            <div class="vert">
+                                <h2>Unity 2D Shoot'Em Up</h2>
+                                <h3>Tekken Shoot'Em Up</h3>
+                            </div>
+                            <div class="vert daterole">
+                                <h3>Developer</h3>
+                                <h3>Mar. 2024 - Mar. 2024</h3>
+                            </div>
+                            
+                        </div>
+                        
+                        <p class="explain">A 2D Game created through Godot that simulates the basic features of a Shoot'Em Up or Bullet Hell Game. It features a gameplay loop wherein the enemy continuously spawns then a boss fight sequence happens after time passes.
+                        
+                    </div>
+                    <div class="vert relimg">
+                        <img src="./images/shump.png" class="sc">
+                        <p class="caption">2D ShootEmUp</p>
+                    </div>
+                </div>
+
+                <div class="hori block">
+                    <div class="vert">
+                        <div class="hori">
+                            <div class="vert">
+                                <h2>Unity 2D Platformer</h2>
+                                <h3>2D Platformer Gameplay</h3>
+                            </div>
+                            <div class="vert daterole">
+                                <h3>Developer</h3>
+                                <h3>Feb. 2024 - Feb. 2024</h3>
+                            </div>
+                            
+                        </div>
+                        
+                        <p class="explain">A 2D Game created through Unity that simulates the basic features of a Platformer game. It features simple basic movement and proper collision. Also implemented a coin collecting system (For this game we use rock balls as coins).
+                        
+                    </div>
+                    <div class="vert relimg">
+                        <img src="./images/2dplatformer.png" class="sc">
+                        <p class="caption">2D Platformer</p>
+                    </div>
+                </div>
+
 
                 <div class="hori block">
                     <div class="vert">
@@ -154,31 +224,9 @@ const projectpage =
 
                         <p class="explain other">
                             <span class="title">
-                            • Unity 2D Platformer Game
-                            </span>
-                            - A 2D Platformer Game that simulates basic features such as movement, camera, collision and simple coin collecting.
-                        </p>
-
-                        <p class="explain other">
-                            <span class="title">
-                            • Godot 2D Bullet Hell Game
-                            </span>
-                            - A 2D Game that is a Tekken Themed Bullet Hell Game
-                        </p>
-
-
-                        <p class="explain other">
-                            <span class="title">
                             • A Python Based Code that Simulates Shortest Job First and Round Robin
                             </span>
                             - A Code that simulates an Operating System feature which is CPU Scheduling, specifically SJF and Round Robin
-                        </p>
-
-                        <p class="explain other">
-                            <span class="title">
-                            • Unity 2D JRPG Fight Sequeunce Game
-                            </span>
-                            - Created a Unity 2D Game that simulates a JRPG Fight Sequence specifically Turn-Based Battle.
                         </p>
 
                         <p class="explain other">
