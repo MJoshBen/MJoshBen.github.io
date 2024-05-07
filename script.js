@@ -112,6 +112,43 @@ const projectpage =
                         </div>
 
                         <div class="vert">
+                            <h3 class="title topmarg">2020 - 2021</h3>
+                        </div>
+
+                        <p class="explain other">
+                            <span class="title">
+                            • Python Hangman Game
+                            </span>
+                            - A Python games that simulate a game of Hangman
+                        </p>
+
+                        <p class="explain other">
+                            <span class="title">
+                            • Java Online Multiplayer Game (Arcane Brawlerz)
+                            </span>
+                            - A Game created through Java using its basic networking application and using collision as the main mechanic of the Game.
+                        </p>
+
+                        <p class="explain other">
+                            <span class="title">
+                            • Animated Java Scene
+                            </span>
+                            - Created a Simple 2D Java Animated Scene where the theme is a house within the Rural Area.
+                        </p>
+                
+
+                        <div class="vert">
+                            <h3 class="title topmarg">2022 - 2023</h3>
+                        </div>
+                        
+                        <p class="explain other">
+                            <span class="title">
+                            • Django Widget Page
+                            </span>
+                            - Created a Widget Page deployed in Django that is school themed where in it has features like Announcement Board, Calendar, Forum, Dashboard and Assignment Pages
+                        </p>
+
+                        <div class="vert">
                             <h3 class="title topmarg">2023 - 2024</h3>
                         </div>
 
@@ -151,42 +188,6 @@ const projectpage =
                             - Created a Unity 2D game that simulates the features of a Tile Based Movement Game
                         </p>
 
-                        <div class="vert">
-                            <h3 class="title topmarg">2020 - 2021</h3>
-                        </div>
-
-                        <p class="explain other">
-                            <span class="title">
-                            • Python Hangman Game
-                            </span>
-                            - A Python games that simulate a game of Hangman
-                        </p>
-
-                        <p class="explain other">
-                            <span class="title">
-                            • Java Online Multiplayer Game (Arcane Brawlerz)
-                            </span>
-                            - A Game created through Java using its basic networking application and using collision as the main mechanic of the Game.
-                        </p>
-
-                        <p class="explain other">
-                            <span class="title">
-                            • Animated Java Scene
-                            </span>
-                            - Created a Simple 2D Java Animated Scene where the theme is a house within the Rural Area.
-                        </p>
-                
-
-                        <div class="vert">
-                            <h3 class="title topmarg">2022 - 2023</h3>
-                        </div>
-                        
-                        <p class="explain other">
-                            <span class="title">
-                            • Django Widget Page
-                            </span>
-                            - Created a Widget Page deployed in Django that is school themed where in it has features like Announcement Board, Calendar, Forum, Dashboard and Assignment Pages
-                        </p>
                         
                     </div>
                 </div>
