@@ -117,36 +117,18 @@ const projectpage =
 
                         <p class="explain other">
                             <span class="title">
-                            • Python Hangman Game
+                            • Unity 2D Platformer Game
                             </span>
-                            - A Python games that simulate a game of Hangman
-                        </p>
-
-
-                        <div class="vert">
-                            <h3 class="title topmarg">2022 - 2023</h3>
-                        </div>
-                        
-                        <p class="explain other">
-                            <span class="title">
-                            • Django Widget Page
-                            </span>
-                            - Created a Widget Page deployed in Django that is school themed where in it has features like Announcement Board, Calendar, Forum, Dashboard and Assignment Pages
+                            - A 2D Platformer Game that simulates basic features such as movement, camera, collision and simple coin collecting.
                         </p>
 
                         <p class="explain other">
                             <span class="title">
-                            • Java Online Multiplayer Game (Arcane Brawlerz)
+                            • Godot 2D Bullet Hell Game
                             </span>
-                            - A Game created through Java using its basic networking application and using collision as the main mechanic of the Game.
+                            - A 2D Game that is a Tekken Themed Bullet Hell Game
                         </p>
 
-                        <p class="explain other">
-                            <span class="title">
-                            • Animated Java Scene
-                            </span>
-                            - Created a Simple 2D Java Animated Scene where the theme is a house within the Rural Area.
-                        </p>
 
                         <p class="explain other">
                             <span class="title">
@@ -173,28 +155,38 @@ const projectpage =
                             <h3 class="title topmarg">2020 - 2021</h3>
                         </div>
 
-
                         <p class="explain other">
                             <span class="title">
-                            • Unity 2D Platformer Game
+                            • Python Hangman Game
                             </span>
-                            - A 2D Platformer Game that simulates basic features such as movement, camera, collision and simple coin collecting.
+                            - A Python games that simulate a game of Hangman
                         </p>
 
                         <p class="explain other">
                             <span class="title">
-                            • Godot 2D Bullet Hell Game
+                            • Java Online Multiplayer Game (Arcane Brawlerz)
                             </span>
-                            - A 2D Game that is a Tekken Themed Bullet Hell Game
+                            - A Game created through Java using its basic networking application and using collision as the main mechanic of the Game.
                         </p>
 
                         <p class="explain other">
                             <span class="title">
-                            • Unity 3D Third Person Shooter Mechanics
+                            • Animated Java Scene
                             </span>
-                            - 3D Third Person Shooter games that shows basic features (Movement, Shooting Animation and Bullet Tracing)
+                            - Created a Simple 2D Java Animated Scene where the theme is a house within the Rural Area.
                         </p>
-                    
+                
+
+                        <div class="vert">
+                            <h3 class="title topmarg">2022 - 2023</h3>
+                        </div>
+                        
+                        <p class="explain other">
+                            <span class="title">
+                            • Django Widget Page
+                            </span>
+                            - Created a Widget Page deployed in Django that is school themed where in it has features like Announcement Board, Calendar, Forum, Dashboard and Assignment Pages
+                        </p>
                         
                     </div>
                 </div>
@@ -222,7 +214,7 @@ const edupage=
                         
                         <p class="explain other">
                             <span class="">
-                            • Currently taking 'Bachelor of Science in Computer Science and Bachelor of Science Digital Game Design and Development' degree program (BSMSCS)
+                            • Currently taking 'Bachelor of Science in Computer Science and Bachelor of Science Digital Game Design and Development' degree program (BS CS-DGDD)
                             </span>
                         </p>
 
@@ -353,7 +345,7 @@ const interestpage =
                             
                         </div>
                         
-                        <p class="explain">As an aspiring game developer, this would probably be an obvious one. I grew up playing a lot of video games. So much so that I wanted to pursue a job in the video game industry. During this year, I have started to learn how Unity and Godot works and hopefully to master them before I graduate and perhaps maybe learn how Unreal Engine works in the near future.</p>
+                        <p class="explain">As an aspiring game developer, this would probably be an obvious one. I grew up playing a lot of video games. So much that I wanted to pursue a job in the video game industry. During this year, I have started to learn how Unity and Godot works and hopefully to master them before I graduate and perhaps maybe learn how Unreal Engine works in the near future.</p>
                         <p class="explain">Video Games that offer an authentic experience is what makes me fall in love with games. This can be experienced through playing competitively, grinding RPG/MMO/Gacha, play with peers or maybe simply enjoying a single player playthrough. I believe that video games are a form of art too, made to evoke emotions. Video games by passionate developers are focused on the idea of bringing along the player on a journey like a movie does, albeit sad or happy.</p>
                         <p class="explain">Games that gives you the crazy battle sequence like Final Fantasy, Indie games like Omori and Undertale or Gacha Games like HSR and Genshin are some examples that I've played that tagged me along that emotional and unforgettable trip. I hope to also be able to create a game like that too someday, either alone or with a circle of people I enjoy being with.</p>
     
