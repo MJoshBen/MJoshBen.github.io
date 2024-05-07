@@ -325,7 +325,7 @@ const interestpage =
                             
                         </div>
                         
-                        <p class="explain">I've been watching E-Sports ever since 2014 specifically for League of Legends. When I was kid I always had a side dream where maybe I could become an E-Sports player myself. Back in HighSchool I used to be able to reach Challenger 3x with ease for League of Legends but sadly my parents didn't believe that E-Sports was a career back in those times. Even if I wasn't able to fulfill that dream, watching E-Sports games is truly the epitome of gaming in my eyes.</p>
+                        <p class="explain">I've been watching E-Sports ever since 2014 specifically for League of Legends. When I was kid I always had a side dream where maybe I could become an E-Sports player myself. Back in HighSchool I used to be able to reach Challenger 3x with ease for League of Legends but I was never presented opportunities to try for an E-Sports carreer. Even if I wasn't able to fulfill that dream, watching E-Sports games is truly the epitome of gaming in my eyes.</p>
 
                     </div>
                     <div class="vert relimg">
