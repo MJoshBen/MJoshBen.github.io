@@ -57,30 +57,6 @@ const projectpage =
                     <div class="vert">
                         <div class="hori">
                             <div class="vert">
-                                <h2>Dakila Homepage</h2>
-                                <h3>NSTP Project</h3>
-                            </div>
-                            <div class="vert daterole">
-                                <h3>UX Designer</h3>
-                                <h3>Apr. 2024 - Apr. 2024</h3>
-                            </div>
-                            
-                        </div>
-                        
-                        <p class="explain">A Homepage prototype created through WordPress. Our team worked with one of our partnered organization for our NSTP class which is "DAKILA" a human rights adovacy organizition.</p>
-                        <p class="explain">As a UX designer, I brainstormed and built iterative prototypes with the design team based on our conducted user research on the acessibility and look of the website. The team and I evaluated the design solutions made through usability testing, which resulted in a final interface that 100% of test target users were satisfied with.</p>
-                        
-                    </div>
-                    <div class="vert relimg">
-                        <img src="./images/dakila.png" class="sc">
-                        <p class="caption">DAKILA Homepage Prototype</p>
-                    </div>
-                </div>
-
-                <div class="hori block">
-                    <div class="vert">
-                        <div class="hori">
-                            <div class="vert">
                                 <h2>Unity 3D Third Person Shooter</h2>
                                 <h3>Simulating Basic Features of a Third Person Shooter</h3>
                             </div>
