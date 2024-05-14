@@ -394,7 +394,7 @@ const interestpage =
                         </div>
                         
                         <p class="explain">Ever since my Father introduced me to shows like Dragon Ball and Naruto when I was young, watching Anime has been a part of my life. As I grew older I became more enamored with the culture surrounding their origin country, which is Japan.</p>
-                        <p class="explain">I became interested with their culture and their way of life. During my second year of college, I took a basic Japanese Language class in order to get a background of their language. So far I can only read Kanji and Hiragana words (without knowing what it translate to). Hopefully before I graduate I get to self-study more about their language.</p>
+                        <p class="explain">I became interested with their culture and their way of life. During my second year of college, I took a basic Japanese Language class in order to get a background of their language. So far I can only read Katakana, Hiragana and some Kanji words (without knowing what it translate to). Hopefully before I graduate I get to self-study more about their language.</p>
                         <p class="explain">One of my goals is to attain the official Japanese Language N1 or N2 Certifications so that I can land a tech/game dev job in Japan.</p>
     
                     </div>
