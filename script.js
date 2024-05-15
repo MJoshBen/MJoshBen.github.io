@@ -67,7 +67,7 @@ const projectpage =
                             
                         </div>
                         
-                        <p class="explain">A 3D Game created through Unity that simulates the basic features of the 3D Shooter. It features a over the shoulder style of aiming, similar to the Resident Evil Games. We utilize ray tracing in terms of creating our shooting animations.
+                        <p class="explain">A 3D Game created through Unity that simulates the basic features of the 3D Shooter. It features a over the shoulder style of aiming, similar to the Resident Evil Games. We utilize ray casting in terms of creating our shooting animations.
                         </p>
                         
                     </div>
